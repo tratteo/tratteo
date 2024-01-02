@@ -49,8 +49,8 @@
 
   <p align="center">
     <img src="res/net.svg" width="32" style="margin-right: 10px;" />
-    <img src="res/unity.svg" height="32" style="margin-right: 10px;" />
-    <img src="res/godot.svg" height="26" style="margin-right: 10px;" />
+    <img src="res/godot.svg" height="34" style="margin-right: 10px;" />
+    <img src="res/unity.svg" height="30" style="margin-right: 10px;" />
   </p>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/31132987/168451411-5e271c56-fdad-4b70-86b0-48819c443554.gif" width="150" />
