@@ -100,7 +100,7 @@
       <img src="res/tf.svg" height="32" style="margin-right: 10px;" />
     </p>
   
-  - [EnNEAT: an Enhanced Neuroevolution of Augmenting Topologies Algorithm](https://github.com/tratteo/phrase_grounding)   
+  - [EnNEAT: an Enhanced Neuroevolution of Augmenting Topologies Algorithm](https://github.com/tratteo/EnNEAT)   
     **B.Sc. Computer Engineering Thesis, University of Rome La Sapienza**
     <p align="left">
       <img src="res/net.svg" width="32" style="margin-right: 10px;" />
