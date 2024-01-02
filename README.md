@@ -22,7 +22,8 @@
 
 - [Marked Text](https://github.com/tratteo/marked_text)  
   <p align="left">
-    <img src="res/dart.svg" width="32" style="margin-right: 10px;" />
+    <img src="res/dart.svg" width="32" style="margin-right: 10px;" />  
+		<img src="res/flutter.svg" width="32" style="margin-right: 10px;" />
   </p>
 
 - [Distributed Cache](https://github.com/tratteo/DistributedCache)  
@@ -59,36 +60,27 @@
 
 -----
 
-## Mods development
+## Mods development 
+
 <p align="center">
     <img src="res/minecraft.svg" width="300"/>
+    <br><i>400 000 downloads</i></br>
 </p>
   <p align="center">
     <img src="res/java.svg" width="32" style="margin-right: 10px;" />
     <img src="https://avatars.githubusercontent.com/u/21025855?s=200&v=4" height="32" style="margin-right: 10px;" />
     <img src="res/curseforge.svg" height="32" style="margin-right: 10px;" />
   </p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/31132987/80125195-a13b6d80-8591-11ea-828f-1ac07a1ac498.png" height="150" />
+    <img src="https://user-images.githubusercontent.com/31132987/78308663-58bc0180-7549-11ea-9c09-3a1813e2a986.png" width="150" />
+    <img src="https://user-images.githubusercontent.com/31132987/103446388-43623800-4c7f-11eb-830c-4734d00f8468.png" height="150" />
+  </p>
 
-### Launchers 
-- [Code](https://github.com/TrattMods/LaunchersMod)
-- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/launchers)
-<p align="left">
-    <img src="https://user-images.githubusercontent.com/31132987/78308663-58bc0180-7549-11ea-9c09-3a1813e2a986.png" width="80" style="margin-right: 10px;" />
-</p>
+- **[Launchers](https://github.com/TrattMods/LaunchersMod)**  
+- **[Trasfer Chest](https://github.com/TrattMods/TransferChest)**  
+- **[Literally Chunk Loader](https://github.com/TrattMods/LiterallyChunkLoader)**
 
-### Trasfer Chest 
-- [Code](https://github.com/TrattMods/TransferChest)
-- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/transfer-chest)
-<p align="left">
-    <img src="https://user-images.githubusercontent.com/31132987/103446388-43623800-4c7f-11eb-830c-4734d00f8468.png" width="80" style="margin-right: 10px;" />
-</p>
-
-### Literally Chunk Loader 
-- [Code](https://github.com/TrattMods/LiterallyChunkLoader)
-- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/literally-chunk-loader)
-<p align="left">
-    <img src="https://user-images.githubusercontent.com/31132987/80125195-a13b6d80-8591-11ea-828f-1ac07a1ac498.png" width="80" style="margin-right: 10px;" />
-</p>
 
 # ⚛️ Quantum Computing & Quantum Machine Learning
   - [EQDR: an Elite Quantum Diffusion Recombination Procedure](https://github.com/tratteo/eqdr)   
