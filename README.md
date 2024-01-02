@@ -1,7 +1,7 @@
 # 🗿
 
 
-# 💻 Applications, Software, Saas & Libraries development
+## 💻 Applications, Software, Saas & Libraries development
 - [Atera - Fuel Your Passions with Experience](https://github.com/Ateraworld)   
   **Founder & Developer**  
 
@@ -43,7 +43,7 @@
     <img src="res/c++.svg" width="24" style="margin-right: 10px;" />
   </p>
 
-# 🎮 Videogames Development   
+## 🎮 Videogames Development   
 - [Fray - You dare?](https://github.com/tratteo/Fray)  
   **Creator & Developer**    
 
@@ -59,8 +59,6 @@
   </p>
 
 -----
-
-## Mods development 
 
 <p align="center">
     <img src="res/minecraft.svg" width="300"/>
@@ -82,7 +80,7 @@
 - **[Literally Chunk Loader](https://github.com/TrattMods/LiterallyChunkLoader)**
 
 
-# ⚛️ Quantum Computing & Quantum Machine Learning
+## ⚛️ Quantum Computing & Quantum Machine Learning
   - [EQDR: an Elite Quantum Diffusion Recombination Procedure](https://github.com/tratteo/eqdr)   
     **M.Sc. Computer Science (Computational Foundations) Thesis, University Of Trento**  
     
@@ -94,7 +92,7 @@
     
  
 
-# 🍃 Deep Learning & Bio Inspired Artificial Intelligence 
+## 🍃 Deep Learning & Bio Inspired Artificial Intelligence 
   - [Phase Grounding](https://github.com/tratteo/phrase_grounding)  
     <p align="left">
       <img src="res/py.svg" width="32" style="margin-right: 10px;" />
