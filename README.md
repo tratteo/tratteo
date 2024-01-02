@@ -2,7 +2,7 @@
 
 
 # 💻 Applications, Software, Saas & Libraries development
-- [Atera - Fuel Your Passions with Experience](https://github.com/orgs/Ateraworld)   
+- [Atera - Fuel Your Passions with Experience](https://github.com/Ateraworld)   
   **Founder & Developer**  
 
   <p align="center">
