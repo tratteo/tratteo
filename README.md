@@ -1,18 +1,18 @@
 # 🗿
 
 
-# 📱 Applications, Software, Saas & Libraries development
+# 💻 Applications, Software, Saas & Libraries development
 - [Atera - Fuel Your Passions with Experience](https://github.com/orgs/Ateraworld/repositories)   
   **Founder & Developer**  
 
-  <p align="left">
+  <p align="center">
     <img src="res/dart.svg" width="32" style="margin-right: 10px;" />
     <img src="res/flutter.svg" width="32" style="margin-right: 10px;" />
     <img src="res/ts.svg" width="32" style="margin-right: 10px;" />
     <img src="res/js.svg" width="32" style="margin-right: 10px;" />
   </p>
-  <p align="left">
-     <img src="https://github.com/Ateraworld/.github/assets/31132987/6982dafb-1acc-41af-abfc-3ed4446a318d" width=300>
+  <p align="center">
+     <img src="https://github.com/Ateraworld/.github/assets/31132987/6982dafb-1acc-41af-abfc-3ed4446a318d" width=350>
   </p>
 
 - [Omnimodel](https://github.com/tratteo/omnimodel)  
@@ -34,10 +34,7 @@
 - [Tiny Trade: Algotrading bot](https://github.com/TinyTrade/TinyTrade)  
   <p align="left">
     <img src="res/net.svg" width="32" style="margin-right: 10px;" />
-  </p>
-
-  <p align="left">
-    <img src="https://user-images.githubusercontent.com/31132987/193480740-c6eeed02-945f-460b-ad44-06562662078b.png" width="100" style="margin-right: 10px;" />
+    <img src="https://user-images.githubusercontent.com/31132987/193480740-c6eeed02-945f-460b-ad44-06562662078b.png" height="40" style="margin-right: 10px;" />
   </p>
 
 - [Multihop IoT Contiki network](https://github.com/tratteo/multihop_network)  
@@ -49,24 +46,24 @@
 - [Fray - You dare?](https://github.com/tratteo/Fray)  
   **Creator & Developer**    
 
-  <p align="left">
+  <p align="center">
     <img src="res/net.svg" width="32" style="margin-right: 10px;" />
     <img src="res/unity.svg" height="32" style="margin-right: 10px;" />
     <img src="res/godot.svg" height="26" style="margin-right: 10px;" />
   </p>
-  <p align="left">
-    <img src="https://user-images.githubusercontent.com/31132987/168451411-5e271c56-fdad-4b70-86b0-48819c443554.gif" width="128" height="128" />
-    <img src="https://user-images.githubusercontent.com/31132987/168451406-9b5fa056-6766-4f73-ba1f-71886c7a08e7.gif" width="128" height="128" />
-    <img src="https://user-images.githubusercontent.com/31132987/168451402-3b181129-5c27-4201-9d9d-be44305baf3f.gif" width="128" height="128" />
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/31132987/168451411-5e271c56-fdad-4b70-86b0-48819c443554.gif" width="150" />
+    <img src="https://user-images.githubusercontent.com/31132987/168451406-9b5fa056-6766-4f73-ba1f-71886c7a08e7.gif" width="150" />
+    <img src="https://user-images.githubusercontent.com/31132987/168451402-3b181129-5c27-4201-9d9d-be44305baf3f.gif" width="150" />
   </p>
 
 -----
 
 ## Mods development
-<p align="left">
-    <img src="res/minecraft.svg" width="256"/>
+<p align="center">
+    <img src="res/minecraft.svg" width="300"/>
 </p>
-  <p align="left">
+  <p align="center">
     <img src="res/java.svg" width="32" style="margin-right: 10px;" />
     <img src="https://avatars.githubusercontent.com/u/21025855?s=200&v=4" height="32" style="margin-right: 10px;" />
     <img src="res/curseforge.svg" height="32" style="margin-right: 10px;" />
