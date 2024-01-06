@@ -15,16 +15,17 @@
      <img src="https://github.com/Ateraworld/.github/assets/31132987/6982dafb-1acc-41af-abfc-3ed4446a318d" width=350>
   </p>
 
-- [Omnimodel](https://github.com/tratteo/omnimodel)  
-  <p align="left">
-    <img src="res/dart.svg" width="32" style="margin-right: 10px;" />
-  </p>
-
-- [Marked Text](https://github.com/tratteo/marked_text)  
+### Dart & Flutter packages
   <p align="left">
     <img src="res/dart.svg" width="32" style="margin-right: 10px;" />  
-		<img src="res/flutter.svg" width="32" style="margin-right: 10px;" />
+    <img src="res/flutter.svg" width="32" style="margin-right: 10px;" />
   </p>
+  
+- [Omnimodel](https://github.com/tratteo/omnimodel)  
+- [Marked Text](https://github.com/tratteo/marked_text)
+- [Guide It](https://github.com/tratteo/guide_it)
+
+-----
 
 - [Distributed Cache](https://github.com/tratteo/DistributedCache)  
   <p align="left">
