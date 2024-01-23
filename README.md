@@ -45,8 +45,9 @@
   </p>
 
 ## 🎮 Videogames Development   
-- [Fray - You dare?](https://github.com/tratteo/Fray)  
-  **Creator & Developer**    
+- **Fray - You dare?**   
+  **Creator & Developer**
+  #### Coming soon...
 
   <p align="center">
     <img src="res/net.svg" width="32" style="margin-right: 10px;" />
