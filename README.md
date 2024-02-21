@@ -84,7 +84,8 @@
 
 ## ⚛️ Quantum Computing & Quantum Machine Learning
   - [EQDR: an Elite Quantum Diffusion Recombination Procedure](https://github.com/tratteo/eqdr)   
-    **M.Sc. Computer Science (Computational Foundations) Thesis, University Of Trento**  
+    **M.Sc. Computer Science (Computational Foundations) Thesis, University Of Trento**    
+    Devising a novel recombination procedure for a hybrid Quantum Evolutionary Algorithm.
     
     <p align="left">
       <img src="res/py.svg" width="32" style="margin-right: 10px;" />
