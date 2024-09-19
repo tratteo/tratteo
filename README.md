@@ -1,14 +1,16 @@
 ## 🗿Support me💚
 
-### 🥝 [Buy me a Kiwi](https://buymeacoffee.com/tratteo)
+### ![](https://api.iconify.design/simple-icons:buymeacoffee.svg?color=%23ffe433) [Buy me a Coffee](https://buymeacoffee.com/tratteo)
 
-### 🪙 [PayPal](https://www.paypal.me/tratteo)
+### ![](https://api.iconify.design/logos:paypal.svg)  [PayPal](https://www.paypal.me/tratteo)
+
+Check me out: [tratteo.it](https://tratteo.it)
 
 ---
 
 ## 💻 Applications, Software, Saas & Libraries development
 
--   [Atera - Fuel Your Passions with Experience](https://github.com/Ateraworld)  
+-   [Wildspace - Seize every opportunity](https://github.com/wildspace-dev)  
     **Founder & Developer**
 
     <p align="center">
@@ -79,26 +81,28 @@
     <img src="https://avatars.githubusercontent.com/u/21025855?s=200&v=4" height="32" style="margin-right: 10px;" />
     <img src="res/curseforge.svg" height="32" style="margin-right: 10px;" />
   </p>
-
-
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/31132987/80125195-a13b6d80-8591-11ea-828f-1ac07a1ac498.png" height="150" />
-    <img src="https://user-images.githubusercontent.com/31132987/78308663-58bc0180-7549-11ea-9c09-3a1813e2a986.png" width="150" />
-    <img src="https://user-images.githubusercontent.com/31132987/103446388-43623800-4c7f-11eb-830c-4734d00f8468.png" height="150" />
-    <img src="https://github.com/trat-mods/Multihopper/assets/31132987/15f44132-9bd6-4afb-b9a8-c7cc5beb81f7" height="150" />
+<img src="https://github.com/trat-mods/LiterallyChunkLoader/blob/main/icon.png" height="150" />
+    <img src="https://github.com/trat-mods/LaunchersMod/blob/main/icon.png" width="150" />
+    <img src="https://github.com/trat-mods/TransferChest/blob/main/icon.png" height="150" />
+    <img src="https://github.com/trat-mods/Multihopper/blob/main/icon.png" height="150" />
+    <img src="https://github.com/trat-mods/NotThatItem/blob/main/icon.png" height="150" />
   </p>
 
 ### Launchers    
-<a href="https://github.com/TrattMods/LaunchersMod" target="_blank"><img src="https://img.shields.io/curseforge/dt/372835?style=flat&logo=curseforge&logoSize=auto" /></a>     
+<a href="https://github.com/trat-mods/LaunchersMod" target="_blank"><img src="https://img.shields.io/curseforge/dt/372835?style=flat&logo=curseforge&logoSize=auto" /></a>     
 
 ### LiterallyChunkLoader    
-<a href="https://github.com/TrattMods/LiterallyChunkLoader" target="_blank"><img src="https://img.shields.io/curseforge/dt/378183?style=flat&logo=curseforge&logoSize=auto" /></a>  
+<a href="https://github.com/trat-mods/LiterallyChunkLoader" target="_blank"><img src="https://img.shields.io/curseforge/dt/378183?style=flat&logo=curseforge&logoSize=auto" /></a>  
 
 ### TransferChest    
-<a href="https://github.com/TrattMods/TransferChest" target="_blank"><img src="https://img.shields.io/curseforge/dt/432830?style=flat&logo=curseforge&logoSize=auto" /></a>  
+<a href="https://github.com/trat-mods/TransferChest" target="_blank"><img src="https://img.shields.io/curseforge/dt/432830?style=flat&logo=curseforge&logoSize=auto" /></a>  
 
 ### Multihopper    
-<a href="[https://github.com/TrattMods/Multihopper" target="_blank"><img src="https://img.shields.io/curseforge/dt/1027743?style=flat&logo=curseforge&logoSize=auto" /></a>   
+<a href="[https://github.com/trat-mods/Multihopper" target="_blank"><img src="https://img.shields.io/curseforge/dt/1027743?style=flat&logo=curseforge&logoSize=auto" /></a>   
+
+### Not That Item!    
+<a href="[https://github.com/trat-mods/NotThatItem" target="_blank"><img src="https://img.shields.io/curseforge/dt/1104943?style=flat&logo=curseforge&logoSize=auto" /></a>   
 
 ## ⚛️ Quantum Computing & Quantum Machine Learning
 
