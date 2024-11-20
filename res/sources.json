@@ -1,4 +1,9 @@
 {
+    "legal": {
+        "vat": "IT03260770593"
+    },
+    "website": "https://tratteo.it",
+    "email": "bltmtt@gmail.com",
     "support": [
         {
             "name": "PayPal",
