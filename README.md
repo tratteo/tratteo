@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
-_Computer Scientist | Solopreneur in the making_
+_Computer Scientist | Tracing my path_
 
-> **🗿 I fired myself 2 times in less than a year to become the chief of myself and to build stuff that I love**
+> **🗿 I build stuff that I love**
 
 🔥Everything you need is on my website, see you here: https://tratteo.it
 
