@@ -10,14 +10,14 @@ _Computer Scientist | Tracing my path_
 
 <p align="center"><b>🤿 Launching the next-gen app for Scuba Divers  </b></p>
 <p align="center">
-  <a href="https://depthlog.net" target="_blank">  
+  <a href="https://depthlog.net?utm_source=github&utm_medium=readme" target="_blank">  
     <img src="https://github.com/user-attachments/assets/80e3b3e9-3ae3-4401-8067-04d27bd63e06" width="400">
   </a>
 </p>
 
 <p align="center">
     👉 Check it out:
-    <a href="https://depthlog.net" target="_blank">  
+    <a href="https://depthlog.net?utm_source=github&utm_medium=readme" target="_blank">  
       Depthlog  
     </a>
 </p>
