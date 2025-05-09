@@ -8,23 +8,13 @@ _Computer Scientist | Tracing my path_
 
 ---
 
-<p align="center"><b>🤿 Launching the next-gen app for Scuba Divers  </b></p>
-<p align="center">
-  <a href="https://depthlog.net?utm_source=github&utm_medium=readme" target="_blank">  
-    <img src="https://github.com/user-attachments/assets/80e3b3e9-3ae3-4401-8067-04d27bd63e06" width="400">
-  </a>
-</p>
+### 🚀 What I am currently building 
+### Depthlog
+> Next-gen app for scuba divers
+ 
+👉 Check it out: [depthlog.net](https://depthlog.net?utm_source=github&utm_medium=readme)
 
-<p align="center">
-    👉 Check it out:
-    <a href="https://depthlog.net?utm_source=github&utm_medium=readme" target="_blank">  
-      Depthlog  
-    </a>
-</p>
+### Agendista (🇮🇹 only)
+> Your bookings on autopilot
 
----
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=tratteo&show_icons=true&theme=github_dark_dimmed" width="400" align="top" style="margin-bottom: 16px;" /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tratteo&show_icons=true&theme=github_dark_dimmed" width="400" align="top" />
-</p>
+👉 Check it out: [agendista.it](https://agendista.it?utm_source=github&utm_medium=readme)
