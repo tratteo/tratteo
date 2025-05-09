@@ -1,10 +1,10 @@
-## 🚀 About Me
+## 🖊️ About Me
 
 _Computer Scientist | Tracing my path_
 
 > **🗿 I build stuff that I love**
 
-🔥Everything you need is on my website, see you here: https://tratteo.it
+Everything you need is on my website, see you here: https://tratteo.it
 
 ---
 
