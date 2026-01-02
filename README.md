@@ -13,7 +13,7 @@ Everything you need is on my website, see you here: https://tratteo.it
 ### Bubblet
 > One "Link in Bio" to rule them all: a single widget to emopower any website with cross promotion
  
-👉 Check it out: [bubblet.vercel.app](https://bubblet.vercel.app?utm_source=github&utm_medium=readme)
+👉 Check it out: [bubblet.app](https://bubblet.app?utm_source=github&utm_medium=readme)
 
 ### Depthlog
 > Next-gen app for scuba divers
