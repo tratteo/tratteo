@@ -24,8 +24,3 @@ Everything you need is on my website, see you here: https://tratteo.it
 > Next-gen app for scuba divers
  
 👉 Check it out: [depthlog.net](https://depthlog.net?utm_source=github&utm_medium=readme)
-
-### Agendista (🇮🇹 only)
-> Your bookings on autopilot
-
-👉 Check it out: [agendista.it](https://agendista.it?utm_source=github&utm_medium=readme)
